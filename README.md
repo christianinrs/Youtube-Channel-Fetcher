@@ -18,8 +18,8 @@ get_detail.php   # Page Proses
 ## 🔧 Cara Menggunakan  
 1. **Clone repositori ini**  
    ```sh
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/christianinrs/Youtube-Channel-Fetcher.git
+   cd Youtube-Channel-Fetcher
 
 2. Jalankan proyek
 - Gunakan server lokal seperti **XAMPP/Laragon** atau **hosting online.**
