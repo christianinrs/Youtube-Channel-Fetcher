@@ -7,9 +7,13 @@ Proyek ini memungkinkan pengguna untuk memeriksa detail channel YouTube mengguna
 - Tampilan sederhana menggunakan **CSS**.  
 - API request dilakukan melalui **PHP**.  
 
-## 📂 Struktur Direktori
-
-/project-root │── index.php         # Halaman utama untuk input channel │── get_detail.php    # Skrip untuk mengambil data dari API │── css/ │   └── style.css     # File CSS untuk tampilan UI
+## 📂 Struktur Folder
+```
+/css  
+  ├── style.css  # File CSS
+index.php        # Halaman utama
+get_detail.php   # Page Proses
+```
 
 ## 🔧 Cara Menggunakan  
 1. **Clone repositori ini**  
@@ -17,41 +21,28 @@ Proyek ini memungkinkan pengguna untuk memeriksa detail channel YouTube mengguna
    git clone https://github.com/username/repository-name.git
    cd repository-name
 
-2. Konfigurasi API
+2. Jalankan proyek
+- Gunakan server lokal seperti **XAMPP/Laragon** atau **hosting online.**
+- Akses **index.php** melalui browser.
 
-Pastikan Anda memiliki API Key dari PAXSENIX.
+## 🛠️ Teknologi yang Digunakan
+- PHP (Backend)
+- CSS (Frontend)
+- PAXSENIX API (YouTube Data)
 
-Tambahkan API Key ke dalam file get_detail.php.
+## 📌 Roadmap Pengembangan
+- Versi 1.0 – Struktur dasar & tampilan statis & responsive ✅
+- Versi 2.0 – Tambah efek animasi, mode gelap/terang & full fiture 🔜
 
-
-
-3. Jalankan proyek
-
-Gunakan server lokal seperti XAMPP/Laragon atau hosting online.
-
-Akses index.php melalui browser.
-
-
-
-
-🛠️ Teknologi yang Digunakan
-
-PHP (Backend)
-
-CSS (Frontend)
-
-PAXSENIX API (YouTube Data)
-
-
-💡 Kontribusi
-
-Silakan buat pull request jika ingin menambahkan fitur atau memperbaiki bug.
-
-📄 Lisensi
-
-Proyek ini menggunakan lisensi MIT.
-
+## 📬 Kontribusi
+Saran dan kontribusi sangat diterima! Jika Anda menemukan bug atau memiliki ide baru, silakan buat **issue** atau kirim **pull request**. 🙌
 
 ---
 
-🚀 Dibuat oleh Your Name
+**Lisensi**
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+🚀 Dibuat oleh [Christian Inrista](https://www.linkedin.com/in/christianinrista).
