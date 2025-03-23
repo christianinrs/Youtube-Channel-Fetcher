@@ -1,6 +1,10 @@
 # YouTube Channel Detail Checker - PAXSENIX API  
 
-Proyek ini memungkinkan pengguna untuk memeriksa detail channel YouTube menggunakan **PAXSENIX API**.  
+Proyek ini memungkinkan pengguna untuk memeriksa detail channel YouTube menggunakan **PAXSENIX API**.  \
+
+## 🎥 Demo Video  
+Lihat demo proyek ini di YouTube:  
+[![Demo Project](https://img.youtube.com/vi/swP5id8FyH0/0.jpg)](https://youtu.be/swP5id8FyH0)
 
 ## 📌 Fitur  
 - Mengambil informasi detail channel YouTube.  
